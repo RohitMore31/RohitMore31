@@ -1,5 +1,6 @@
 <h2 align="center">Hi 👋, I'm Rohit More</h2>
-<h3 align="center">A passionate Full Stack Developer as well Software Tester</h3>
+
+<!-- <h3 align="center">A passionate Full Stack Developer as well Software Tester</h3>
 
 <!-- L<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmore31&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore31" /> </p>
  -->
@@ -39,3 +40,4 @@
 <a href=https://www.linkedin.com/in/rohit-more-313348188/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitmore" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rohitmore31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohitmore31" height="30" width="40" /></a>
 </p>
+ -->
