@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Rohit More</h2>
-<h3 align="center">A passionate Full Stack developer As Well Software Tester</h3>
+<h3 align="center">A passionate Full Stack Developer as well Software Tester</h3>
 
 <!-- L<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmore31&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmore31" /> </p>
  -->
